@@ -1,2 +1,2 @@
-# GitHub-prueba
+# Videojocs
 Maxi
